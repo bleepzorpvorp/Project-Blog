@@ -1,45 +1,32 @@
 body {
     text-align: center;
-    background-color: gray;
+    background-color: #f8f8f8;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
 
 }
-
+img[alt="banner"] {
+    width: 100%;
+    display: block;
+}
 aside {
+    background: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px dashed;
     text-align: left;
+    width: 250px;
 }
 .orderedlist {
-    
+    width: 250px;
 }
 .unorderedlist {
-    
+    width: 250px;
 }
-.post1 {
-
-}
-.post2 {
-
-}
-.post3 {
-
-}
-.post4 {
-
-}
-.post5 {
-
-}
-.post6 {
-
-}
-.post7{
-
-}
-.post8 {
-
-}
-.post9 {
-
-}
-.post10 {
-
+article {
+background: #f8f8f8;
+padding: 15px;
+margin-bottom: 20px;
+border: 1px solid #ddd;
+width: 500px;
 }

@@ -1,5 +1,9 @@
-.header {
-}
 body {
-text-align: center;
+    text-align: center;
+}
+article {
+    text-align: center;
+}
+aside {
+    text-align: left;
 }

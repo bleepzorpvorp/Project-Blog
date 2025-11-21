@@ -11,6 +11,10 @@ h1.hello {
     font-family:'Times New Roman', Times, serif;
     font-size: 50px;
 }
+h1.hello {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+}
 img[alt="banner"] {
     width: 100%;
     display: block;

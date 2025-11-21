@@ -1,41 +1,133 @@
 body {
     text-align: center;
-    background-color: #004c4c;
+    background-color:rgb(44, 75, 99);
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 0;
     font-size: medium;
     cursor: url('arrow-cursor-outline.png');
 
 }
+h1.hello {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+}
 img[alt="banner"] {
     width: 100%;
     display: block;
-    border: teal dashed;
+    border: turquoise dashed;
+    border-width: 5px;
+}
+aside {
+    background: rgb(104, 154, 192);
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px dashed;
+    text-align: center;
+    width: 250px;
+    border-color: rgb(99, 119, 134);
+    border-width: 5px;
+}
+
+
+img.doo {
+    padding-right: 30px;
+ width: auto;
+
+}
+table.post1 {
+    background-color: rgb(113, 133, 140);
+    border-color: rgb(64, 77, 87);
+    border-width: 10px;
+}
+
+table.post2 {
+    background-color: rgb(113, 133, 140);
+    border-color: rgb(64, 77, 87);
+    border-width: 10px;
+}
+
+table.post3 {
+    background-color: rgb(113, 133, 140);
+    border-color: rgb(64, 77, 87);
+    border-width: 10px;
+}
+
+table.post4 {
+    background-color: rgb(113, 133, 140);
+    border-color: rgb(64, 77, 87);
+    border-width: 10px;
+}
+
+table.post5{
+    background-color: rgb(113, 133, 140);
+    border-color: rgb(64, 77, 87);
+    border-width: 10px;
+}
+
+table.post6 {
+    background-color: rgb(113, 133, 140);
+    border-color: rgb(64, 77, 87);
+    border-width: 10px;
+}
+
+table.post7 {
+    background-color: rgb(113, 133, 140);
+    border-color: rgb(64, 77, 87);
+    border-width: 10px;
+}
+
+table.post8 {
+    background-color: rgb(113, 133, 140);
+    border-color: rgb(64, 77, 87);
+    border-width: 10px;
+}
+
+table.post9 {
+    background-color: rgb(113, 133, 140);
+    border-color: rgb(64, 77, 87);
+    border-width: 10px;
+}
+
+table.post10 {
+    background-color: rgb(113, 133, 140);
+    border-color: rgb(64, 77, 87);
+    border-width: 10px;
 }
 
 .orderedlist {
-
-    padding: 15px;
-    margin-bottom: 20px;
-    border: 1px dashed;
-    text-align: center;
     width: 250px;
-}
 }
 .unorderedlist {
-
-    padding: 15px;
-    margin-bottom: 20px;
-    border: 1px dashed;
-    text-align: center;
     width: 250px;
 }
-}
-table {
-text-align: center;
-background: #f8f8f8;
+aside {
 padding: 15px;
 margin-bottom: 20px;
-border: 1px solid #ddd;
 width: 500px;
+margin: 0 auto;
+}
+
+p.info2 {
+    padding-right: 17px;
+}
+
+h2 {
+    padding-right: 17px;
+}
+
+
+
+article {
+text-align: center;
+font-size: 15px;
+background-color: rgb(94, 114, 129);
+padding-left: 15px;
+margin-bottom: 20px;
+border: 4px solid #1f2124;
+width: 400px;
+margin: 2 auto;
+
+}
+img article {
+    text-align: center;
 }

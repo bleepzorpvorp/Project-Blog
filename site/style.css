@@ -79,14 +79,14 @@ aside {
 }
 
 table.post1 {
-    margin-left: 0;
+    margin-left: 0 auto;
     background-color: rgb(113, 133, 140);
     border-color: rgb(64, 77, 87);
     border-width: 10px;
 }
 
 table.post2 {
-    margin-left: 0;
+    margin-left: 0 auto;
     background-color: rgb(113, 133, 140);
     border-color: rgb(64, 77, 87);
     border-width: 10px;
@@ -94,7 +94,7 @@ table.post2 {
 
 table.post3, table.post4, table.post5, table.post6, table.post7, table.post8, table.post9, table.post10 {
     width: 100%;
-    margin-left: 0;
+    margin-left: 0 auto;
     flex-basis: 100%;
     background-color: rgb(113, 133, 140);
     border-color: rgb(64, 77, 87);

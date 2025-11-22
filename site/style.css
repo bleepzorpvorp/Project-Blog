@@ -43,6 +43,14 @@ ul {
     border: 3px solid #1f2124;
 }
 
+ol {
+    background: #607b92;
+    padding: 15px;
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+    border: 3px solid #1f2124;
+}
 table {
     background: #5e7284;
     border-collapse: collapse;

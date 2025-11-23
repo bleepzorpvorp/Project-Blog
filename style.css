@@ -4,7 +4,7 @@ body {
     margin: 0;
     color: white;
     text-align: center;
-    cursor
+    cursor: url('cursor.cur') 16 16, auto;
 }
 
 header {
